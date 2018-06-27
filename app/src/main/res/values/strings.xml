@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyPlayGame</string>
+    <string name="app_id">773820260287</string>
+    <string name="signin_other_error">Sign In Other Error</string>
+    <!-- leaderboard Global Rank -->
+    <string name="leaderboard_global_rank" translatable="false">CgkIv7-g2sIWEAIQAw</string>
+    <!-- leaderboard Local Rank -->
+    <string name="leaderboard_local_rank" translatable="false">CgkIv7-g2sIWEAIQBA</string>
+    <string name="alchemy_games">Alchemy Education</string>
+
+
+    <string-array name="subjectList">
+        <item>Aptitude</item>
+        <item>Reasoning</item>
+        <item>General Awareness</item>
+        <item>Computer</item>
+        <item>English</item>
+        <item>General Knowledge</item>
+        <item>History</item>
+    </string-array>
+
+
+    <string-array name="subject_code">
+        <item>apt</item>
+        <item>rsn</item>
+        <item>ga</item>
+        <item>cmp</item>
+        <item>eng</item>
+        <item>gk</item>
+        <item>htr</item>
+        <item>geo</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
